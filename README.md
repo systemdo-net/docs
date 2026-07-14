@@ -1,53 +1,53 @@
-<h1 align="center">📚 SystemDo Documentation</h1>
+<h1 align="center">📚 SystemDo 官方文档中心</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-Documentation-0b5cff?style=flat-square" alt="Type">
-  <img src="https://img.shields.io/badge/Language-ZH_|_EN-00b090?style=flat-square" alt="Language">
-  <img src="https://img.shields.io/badge/Status-Active-00b090?style=flat-square" alt="Status">
-  <a href="https://systemdo.net"><img src="https://img.shields.io/badge/Website-systemdo.net-0b5cff?style=flat-square" alt="Website"></a>
+  <img src="https://img.shields.io/badge/类型-技术文档-0b5cff?style=flat-square" alt="类型">
+  <img src="https://img.shields.io/badge/语言-中文_|_English-00b090?style=flat-square" alt="语言">
+  <img src="https://img.shields.io/badge/状态-持续更新-00b090?style=flat-square" alt="状态">
+  <a href="https://systemdo.net"><img src="https://img.shields.io/badge/官网-systemdo.net-0b5cff?style=flat-square" alt="官网"></a>
 </p>
 
 ---
 
-## 📖 About
+## 📖 项目介绍
 
-The official documentation hub for **SystemDo**. This repository contains comprehensive guides, API references, best practices, and technical documentation for enterprise software development.
+SystemDo 官方文档中心。包含企业软件开发完整指南、API 参考文档、最佳实践和技术规范。面向客户、开发者与合作伙伴，提供从入门到精通的全方位技术文档支持。
 
-Whether you're a client onboarding with our systems, a developer on our team, or a partner integrating with our solutions, you'll find the information you need here.
+无论您是刚开始了解我们的服务，还是正在集成我们的系统，都可以在这里找到所需的信息。
 
-## 📂 Documentation Structure
+## 📂 文档结构
 
-| Section | Description |
-|---------|-------------|
-| **Getting Started** | Quick start guides for new projects and clients |
-| **Services** | Detailed overview of all 6 core service categories |
-| **API Reference** | Technical API documentation for SystemDo platforms |
-| **Architecture** | System architecture patterns and design decisions |
-| **Development** | Coding standards, workflows, and environment setup |
-| **Deployment** | Deployment guides for various hosting environments |
-| **Guides** | Step-by-step tutorials for common scenarios |
-| **FAQ** | Frequently asked questions by clients and developers |
+| 板块 | 内容说明 |
+|------|---------|
+| **快速入门** | 新客户项目启动指南、开发环境搭建 |
+| **服务概述** | 六大核心服务详细介绍与适用范围 |
+| **API 参考** | SystemDo 平台技术接口文档 |
+| **系统架构** | 企业级系统架构模式与设计决策 |
+| **开发规范** | 编码标准、工作流程、环境配置 |
+| **部署指南** | 各环境部署方案与运维手册 |
+| **实战教程** | 常见业务场景的分步实现指南 |
+| **常见问题** | 客户与开发者高频问题解答 |
 
-## 🎯 Who Is This For?
+## 🎯 适用人群
 
-- **Clients** — Understanding our development process, technology choices, and project workflows
-- **Developers** — Onboarding guides, code standards, environment setup, and API references
-- **Partners** — Integration guidelines, API documentation, and collaboration workflows
-- **New Team Members** — Comprehensive onboarding documentation
+- **企业客户** — 了解开发流程、技术选型、项目协作方式
+- **开发工程师** — 入职指南、代码规范、环境搭建、API 参考
+- **合作伙伴** — 系统集成指南、API 文档、协作流程
+- **新团队成员** — 全面的入职培训文档体系
 
-## 🗺️ Roadmap
+## 🗺️ 未来规划
 
-- [ ] Complete API reference documentation
-- [ ] Add interactive API playground
-- [ ] Create video tutorial series
-- [ ] Build searchable documentation portal
-- [ ] Add multi-language support (Chinese, English, Spanish)
+- [ ] 完善 API 参考文档
+- [ ] 搭建交互式 API 在线调试工具
+- [ ] 制作视频教程系列
+- [ ] 构建全文搜索文档门户
+- [ ] 增加多语言支持（中文、英文）
 
-## 📄 License
+## 📄 开源协议
 
 MIT © SystemDo
 
-## 🔗 Links
+## 🔗 相关链接
 
-- **Website:** [https://systemdo.net](https://systemdo.net)
-- **Contact:** [wo18672433344@gmail.com](mailto:wo18672433344@gmail.com)
+- **官网：** [https://systemdo.net](https://systemdo.net)
+- **联系邮箱：** [wo18672433344@gmail.com](mailto:wo18672433344@gmail.com)
